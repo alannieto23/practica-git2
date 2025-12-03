@@ -5,3 +5,4 @@ GitLab és una plataforma de gestió de repositoris Git amb integració de CI/CD
 Permet treballar en equip, fer Pull Requests (Merge Requests), i automatitzar processos de desenvolupament.
 
 Modificando linea
+
